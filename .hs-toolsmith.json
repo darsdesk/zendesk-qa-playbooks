@@ -1,0 +1,13 @@
+{
+  "hsToolsmith": true,
+  "title": "zendesk-qa-playbooks",
+  "pitch": "Generate consistent Zendesk email replies and QA checklists from reusable playbook templates.",
+  "language": "typescript",
+  "category": "Developer Tools",
+  "keyFeatures": [
+    "YAML/JSON playbook format for reply templates and QA criteria",
+    "Rule-based routing by ticket tags, language, and intent",
+    "Export to Zendesk macros plus printable QA checklists"
+  ],
+  "targetUsers": "Support engineering teams and ops-minded CS leads who want consistent Zendesk email quality at scale."
+}
